@@ -1,5 +1,5 @@
 # strava-importer
-A Kotlin library to wrap the Strava API.
+A Kotlin library to wrap the [Strava API](http://developers.strava.com/docs/reference/).
 This library is still in an early stage and nowhere near complete. 
 
 In order to use this library you need to register an application with Strava and retrieve your credentials. Currently the library is only able to retrieve your own activities since the oauth2 flow is not yet completely implemented.
